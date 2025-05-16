@@ -1,2 +1,4 @@
-# Contra-Gen
-Scrip generador contraseñas
+### GENERADOR DE CONTRSEÑA 
+### CREADO POR LEONEL 
+
+# BIENVENIDO GRACIAS 
